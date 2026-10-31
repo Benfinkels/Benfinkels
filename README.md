@@ -1,6 +1,6 @@
 # Hi, I'm Ben Finkelstein 👋
 
-**Applied AI Engineer & Systems Builder**  
+**Analytical Lead, Applied AI Systems Builder**  
 Specializing in **Local/Edge AI Systems**, **Parameter-Efficient Fine-Tuning (LoRA)**, **Privacy-First RAG**, and **Econometric Attribution Modeling**.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat&logo=linkedin)](https://linkedin.com/in/)
