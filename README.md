@@ -3,6 +3,7 @@
 **Analytics & Finance Lead | Applied AI Systems Builder**  
 Building empirical AI evaluation harnesses, local/edge inference pipelines, and causal measurement models for marketing & finance.
 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-benfinkels-0A66C2?style=flat&logo=linkedin)](https://www.linkedin.com/in/benfinkels/)
 [![GitHub](https://img.shields.io/badge/GitHub-Benfinkels-181717?style=flat&logo=github)](https://github.com/Benfinkels)
 [![Email](https://img.shields.io/badge/Email-Benfinkels%40gmail.com-D14836?style=flat&logo=gmail)](mailto:Benfinkels@gmail.com)
 
